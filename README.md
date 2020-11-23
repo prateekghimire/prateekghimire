@@ -45,7 +45,7 @@
 <br />
 
 ---
-
+### Some of the repositories are private due to privacy reasons.
 
 [website]: https://bit.ly/pratikghimire
 [twitter]: https://twitter.com/pra21k
