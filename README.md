@@ -31,12 +31,14 @@
 - Matplotlib
 - Seaborn
 - Plotly
+- Sk-Learn
 - Beautiful Soup
 - Selenium
 - Streamlit
 - openCV
 - Tensorflow
 - Power BI
+
 
 
 
