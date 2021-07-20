@@ -6,8 +6,8 @@
 
 ## I'm a Student!!
 
-- 🔭 I am currently looking for job.
-- ⚡ Fun fact: I love using photoshop.
+- 🔭 I am currently doing internship.
+- ⚡ Fun fact: I like using photoshop.
 
 
 ### Connect with me:
@@ -22,16 +22,17 @@
 ### Languages and Tools:
 
 - Python
+- JavaScript
+- React
 - HTML
 - CSS
 - Bootstrap
-- Flask
+- Django
 - SQL
 - Numpy
 - Pandas
 - Matplotlib
 - Seaborn
-- Plotly
 - Sk-Learn
 - Beautiful Soup
 - Selenium
