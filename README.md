@@ -49,7 +49,7 @@
 <br />
 
 ---
-https://github-readme-stats.vercel.app/api/top-langs/?username=prateekghimire&hide=css,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekghimire&hide=css,html&theme=tokyonight)
 
 [website]: https://bit.ly/pratikghimire
 [twitter]: https://twitter.com/pra21k
