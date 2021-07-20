@@ -49,7 +49,7 @@
 <br />
 
 ---
-### Some of the repositories are private due to privacy reasons.
+https://github-readme-stats.vercel.app/api/top-langs/?username=prateekghimire&hide=css,html&theme=tokyonight)
 
 [website]: https://bit.ly/pratikghimire
 [twitter]: https://twitter.com/pra21k
