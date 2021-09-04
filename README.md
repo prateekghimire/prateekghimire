@@ -6,7 +6,7 @@
 
 ## I'm a Student!!
 
-- 🔭 I am currently looking for trainee position.
+- 🔭
 - ⚡ Fun fact: I like using photoshop.
 
 
