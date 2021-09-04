@@ -38,7 +38,7 @@
 - Selenium
 - Streamlit
 - openCV
-- Tensorflow
+
 - Power BI
 
 
