@@ -25,6 +25,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/flask.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/numpy.png"/></a>
     <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a>
