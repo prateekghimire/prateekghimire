@@ -6,7 +6,7 @@
 <h2 align="center"><strong> 🙋‍♂️ About Me</strong></h2>
 <div align="center">
 
-<p> 🌱 I’m like playing <strong>Football</strong>.</p>
+<p> 🌱 I like playing <strong>Football</strong>.</p>
 
 <!-- <p> 👯 I’m looking to contribute to <strong>OpenSource Projects</strong></p>
 
